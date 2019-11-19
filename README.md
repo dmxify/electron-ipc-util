@@ -12,7 +12,7 @@
   <a href="https://github.com/dmxify/electron-ipc-util/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/dmxify/electron-ipc-util" />
   </a>
-  <a href="https://twitter.com/jasbanzaa" target="_blank">
+  <a href="https://twitter.com/jasbanza" target="_blank">
     <img alt="Twitter: jasbanza" src="https://img.shields.io/twitter/follow/jasbanza.svg?style=social" />
   </a>
 </p>
