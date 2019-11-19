@@ -1,0 +1,28 @@
+{
+  "name": "electron-ipc-util",
+  "version": "0.1.0",
+  "description": "Communicate from any process (main or renderer) to all other processes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmxify/electron-ipc-util.git"
+  },
+  "keywords": [
+    "electron",
+    "ipc",
+    "communicate",
+    "communication"
+  ],
+  "author": "jason banfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmxify/electron-ipc-util/issues"
+  },
+  "homepage": "https://github.com/dmxify/electron-ipc-util#readme",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
