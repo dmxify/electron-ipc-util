@@ -29,7 +29,7 @@ npm install electron-ipc-util
 
 ## Documentation
 
- [##Documentation](https://doxdox.org/dmxify/electron-ipc-util)
+ [Click here!](https://doxdox.org/dmxify/electron-ipc-util)
 
 ## Author
 
