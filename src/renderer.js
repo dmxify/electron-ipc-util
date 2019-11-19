@@ -7,12 +7,20 @@ const {
 
 /** Class ElectronIPCUtil - renderer process usage */
 module.exports = class ElectronIPCUtil {
+  /**
+   * ElectronIPCUtil constructor.
+   */
   constructor() {
+    // ...
     this._subscriptions = {};
     this._blacklist = {};
   }
 
+  /**
+   * Initialize the instance.
+   */
   init() {
+    // ...
     ipcRenderer.on('electron-ipc-util.main.acknowledged', (event, args) => {
       console.log(args);
     });
@@ -23,6 +31,11 @@ module.exports = class ElectronIPCUtil {
     });
   }
 
+  /**
+   * Send announcement to all processes.
+   * @param {object} options - Object containing 'eventName': string
+   * @return {Point} A Point object.
+   */
   static announce(options = {
       eventName: 'default'
     },
