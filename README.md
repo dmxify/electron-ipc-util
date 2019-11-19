@@ -3,8 +3,8 @@
   <a href="https://www.npmjs.com/package/electron-ipc-util" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/electron-ipc-util.svg">
   </a>
-  <a href="https://doxdox.org/dmxify/electron-ipc-util" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <a href="https://doxdox.org/dmxify/electron-ipc-util/master">
+    <img alt="doxdox documentation" src="https://doxdox.org/images/badge-flat.svg" class="doxdox-readme-badge">
   </a>
   <a href="https://github.com/dmxify/electron-ipc-util/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
