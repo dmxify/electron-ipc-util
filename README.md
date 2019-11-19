@@ -29,10 +29,10 @@ npm install electron-ipc-util
 
 ## Author
 
-👤 **jason banfield**
+👤 **Jason Banfield**
 
 * Website: https://dmxify.com
-* Twitter: [@jasbanzaa](https://twitter.com/jasbanzaa)
+* Twitter: [@dmxify](https://twitter.com/jasbanza)
 * Github: [@dmxify](https://github.com/dmxify)
 
 ## 🤝 Contributing
@@ -45,7 +45,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [DMXify](https://github.com/dmxify).<br />
+Copyright © 2019 [Jason Banfield @ DMXify](https://github.com/dmxify).<br />
 This project is [MIT](https://github.com/dmxify/electron-ipc-util/blob/master/LICENSE) licensed.
 
 ***
