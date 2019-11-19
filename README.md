@@ -45,7 +45,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [jason banfield](https://github.com/dmxify).<br />
+Copyright © 2019 [DMXify](https://github.com/dmxify).<br />
 This project is [MIT](https://github.com/dmxify/electron-ipc-util/blob/master/LICENSE) licensed.
 
 ***
