@@ -5,6 +5,7 @@ const {
   remote
 } = require('electron');
 
+/** Class ElectronIPCUtil - renderer process usage */
 module.exports = class ElectronIPCUtil {
   constructor() {
     this._subscriptions = {};

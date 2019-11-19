@@ -5,6 +5,7 @@ const {
   BrowserWindow
 } = require('electron');
 
+/** Class ElectronIPCUtil - main process usage */
 module.exports = class ElectronIPCUtil {
   constructor() {}
   static init() {
