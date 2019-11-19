@@ -27,6 +27,10 @@
 npm install electron-ipc-util
 ```
 
+## Documentation
+
+ [##Documentation](https://doxdox.org/dmxify/electron-ipc-util)
+
 ## Author
 
 👤 **Jason Banfield**
